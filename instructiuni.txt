@@ -1,0 +1,69 @@
+---------------------------- Fuck marry kill ----------------------------------
+
+instructiuni:
+In fiecare runda, fetele vor primii 3 baieti random si le vor alege dupa aceea una din cele 3 optiuni: Kill, Fuck,Marry,care vor 
+fi contorizate global in mapele respective. Pentru a "fenta" algoritmul de shuffle, gabi si robert au functii separate( ei vor fi trecuti de 
+mai multe ori in lista de baieti pentru a le creste sansele sa fie alesi,in cazul lor va fi stearsa fiecare aparitia a lor).La restu, dupa ficare 
+alegere, baiatul extras va fi sters din lista fetei respective,iar la final se va afisa statistica  (cel mai) pentru fiecare optiune(top,fuck,kill)
+
+exemplu derulare joc in consola:
+Gabita a aderat
+Ruxi a aderat
+Ioana a aderat
+Alexia a aderat
+Sa inceapa jocu:
+ Runda 1
+RUXI:
+Lazar
+Balmus
+Vlad Craciun
+k
+f
+m
+GABITA:
+Tanasie
+Selly
+Razvanel
+f
+m
+k
+IOANA:
+Pana
+Vlad Craciun
+Bene
+k
+f
+m
+ALEXIA:
+Dinca
+Ted
+y
+Selly
+m
+f
+k
+mai jucam?
+gata
+
+cel mai futut este:
+Balmus 1
+Tanasie 1
+Tedy 1
+Vlad Craciun 1
+
+cel mai baiat de casa este:
+Bene 1
+Dinca 1
+Selly 1
+Vlad Craciun 1
+
+cel mai omorat este:
+Lazar 1
+Pana 1
+Razvanel 1
+Selly 1
+
+
+Process finished with exit code 0
+
+
