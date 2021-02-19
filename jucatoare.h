@@ -159,7 +159,7 @@ public:
                 copie2 = iterator1;
             }
         }
-        cout << "cel mai futut este: " << endl;
+        cout << "cel mai dorit este: " << endl;
         for (iterator1 = fuck.begin(); iterator1 != fuck.end(); ++iterator1) {
             if (iterator1->second == max) {
                 cout << iterator1->first << " ";
